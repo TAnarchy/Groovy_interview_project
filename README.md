@@ -1,1 +1,1 @@
-# Groovy_interview_project
+Project for another interview. Description in the top commoents.
